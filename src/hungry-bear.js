@@ -5,16 +5,22 @@ export class HungryBear {
   }
 
   setHunger() {
-    setInterval(() => {
+    let hungerCount = setInterval(() => {
       this.foodLevel--;
+      if (this.foodLevel === 0) {
+        clearInterval(hungerCount);
+      }
     }, 1000);
   }
 
+
   didYouGetEaten() {
-    if(this.foodLevel > 0){
-      return false;
+    if(this.foodLevel === 0){
+      console.log("Food > 0: ", this.foodLevel);
+      // return false;
     } else {
-      return true;
+      console.log("Food < 0:", this.foodLevel);
+      // return true;
     }
   }
 
