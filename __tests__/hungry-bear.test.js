@@ -33,7 +33,7 @@ describe ('Fuzzy', () => {
     expect(fuzzy.didYouGetEaten()).toEqual(true);
   });
 
-  test('should have a good level of ten if it is is fed', () => {
+  test('should have a food level of ten if it is fed', () => {
     jest.advanceTimersByTime(9001);
     fuzzy.feed();
     expect(fuzzy.foodLevel).toEqual(10);
