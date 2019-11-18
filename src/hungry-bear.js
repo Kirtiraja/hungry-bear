@@ -1,7 +1,7 @@
 export class HungryBear {
   constructor(name) {
     this.name = name;
-    this.foodLevel = 10;
+    this.foodLevel = 3; //testing with 3
   }
 
   setHunger() {
@@ -12,7 +12,6 @@ export class HungryBear {
       }
     }, 1000);
   }
-
 
   didYouGetEaten() {
     if(this.foodLevel === 0){

@@ -3,6 +3,10 @@ import { HungryBear } from './../src/hungry-bear.js';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './styles.css';
+import  bearBite from './dancingBear.gif';
+
+let bearBiteImg = document.getElementById('bearBite');
+bearBiteImg.src = bearBite;
 
 $(document).ready(function(){
   let fuzzy = new HungryBear();
@@ -19,13 +23,28 @@ $(document).ready(function(){
       $("#bearHungerDisplay").text(fuzzy.foodLevel);
     }
     fuzzy.setHunger();
+
+
     setInterval(function(){
       displayTime();
+      if(fuzzy.foodLevel <= 0){
+        modalDisplay();
+      }
     }, 500);
+
+    let modalDisplay = () => {
+      $('#myModal').modal('show');
+        setTimeout(function() {
+          $('#myModal').modal('show');
+        }, 1000);
+    };
+
 
     $(".feed").click(function(event) {
       event.preventDefault();
       fuzzy.feed();
+      // fuzzy.setHunger();
+
     });
     $(".poke").click(function(event) {
       event.preventDefault();
@@ -34,7 +53,7 @@ $(document).ready(function(){
       event.preventDefault();
     });
     setInterval(function(){
-      fuzzy.didYouGetEaten()
+      fuzzy.didYouGetEaten();
     }, 1000);
     // })
     // fuzzy.didYouGetEaten();
