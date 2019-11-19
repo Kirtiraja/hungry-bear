@@ -39,23 +39,22 @@ $(document).ready(function(){
         }, 1000);
     };
 
-
     $(".feed").click(function(event) {
       event.preventDefault();
       fuzzy.feed();
-      // fuzzy.setHunger();
-
     });
+
     $(".poke").click(function(event) {
       event.preventDefault();
+      fuzzy.poke();
     });
+
     $(".sleep").click(function(event) {
       event.preventDefault();
     });
+
     setInterval(function(){
       fuzzy.didYouGetEaten();
     }, 1000);
-    // })
-    // fuzzy.didYouGetEaten();
   });
 });

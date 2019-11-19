@@ -6,7 +6,7 @@ describe ('Fuzzy', () => {
 
   beforeEach(function(){
     fuzzy = new HungryBear("Fuzzy");
-    fuzzy.setHunger();
+    fuzzy.setHunger(); // reinstantiates decrementer for every test
   });
 
   afterEach(function(){
@@ -39,4 +39,8 @@ describe ('Fuzzy', () => {
     expect(fuzzy.foodLevel).toEqual(10);
   });
 
+  test('should correctly reduce food level by 2 every second', () =>{
+    jest.advanceTimersByTime(2001);
+    expect(fuzzy.poke()).toEqual(6);
+  });
 });
