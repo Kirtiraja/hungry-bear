@@ -32,6 +32,28 @@ $(document).ready(function(){
         $('#bearSleepDisplay').removeClass('warning');
       }
     }
+
+
+    // API Test Beginning
+    let request = new XMLHttpRequest();
+    const url = `https://api.giphy.com/v1/gifs/search?api_key=bIqLJA6iUApAJtFIA72m1RPCMSZQ9UGx&q=bear&limit=25&offset=0&rating=G&lang=en`;
+
+    request.onreadystatechange = function() {
+      if (this.readyState === 4 && this.status === 200) {
+        const response = JSON.parse(this.responseText);
+        getElements(response);
+      }
+    }
+
+    request.open("GET", url, true);
+    request.send();
+
+   const getElements = function(response) {
+      $('#bearGIF').append(`<img src='${response.data[0].images.downsized_large.url}'></img>`);
+      // $('.showTemp').text(`The temperature in Kelvins is ${response.main.temp} degrees.`);
+    }
+    // API Test End
+
     fuzzy.setHunger();
     fuzzy.sleepTimer();
 

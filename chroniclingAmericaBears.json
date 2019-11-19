@@ -1,0 +1,2450 @@
+{
+    "totalItems": 166,
+    "endIndex": 50,
+    "startIndex": 1,
+    "itemsPerPage": 20,
+    "items": [
+        {
+            "essay": [],
+            "place_of_publication": "White Bear Lake, Minn.",
+            "start_year": 1973,
+            "publisher": "White Bear Advisor",
+            "county": [
+                "Ramsey"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn90059369.json",
+            "id": "/lccn/sn90059369/",
+            "subject": [
+                "Minnesota--White Bear Lake.--fast--(OCoLC)fst01219665",
+                "White Bear Lake (Minn.)--Newspapers."
+            ],
+            "city": [
+                "White Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The White Bear advisor.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 1976,
+            "alt_title": [],
+            "note": [
+                "Available on microfilm from the Minnesota Historical Society."
+            ],
+            "lccn": "sn90059369",
+            "state": [
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Ramsey--White Bear Lake"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "white bear advisor.",
+            "oclc": "21488032"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Big Bear Lake, Calif.",
+            "start_year": 1900,
+            "publisher": "Glenn E. Brookins",
+            "county": [
+                "San Bernardino"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn97069572.json",
+            "id": "/lccn/sn97069572/",
+            "subject": [
+                "Big Bear Lake (Calif.)--Newspapers.",
+                "California--Big Bear Lake.--fast--(OCoLC)fst01236028",
+                "California--San Bernardino Mountains Region.--fast--(OCoLC)fst01342933",
+                "San Bernardino Mountains Region (Calif.)--Newspapers."
+            ],
+            "city": [
+                "Big Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Big Bear life. [volume]",
+            "holding_type": [
+                "Microfilm Print Master"
+            ],
+            "end_year": 1939,
+            "alt_title": [],
+            "note": [
+                "\"A newspaper for Big Bear Lake and the San Bernardino Mountains.\"",
+                "Description based on: Vol. 9, no. 1 (Apr. 27, 1929).",
+                "Master negatives are available for duplication from:"
+            ],
+            "lccn": "sn97069572",
+            "state": [
+                "California"
+            ],
+            "place": [
+                "California--San Bernardino--Big Bear Lake"
+            ],
+            "country": "California",
+            "type": "title",
+            "title_normal": "big bear life.",
+            "oclc": "37511798"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Bear Lake, Mich.",
+            "start_year": 1000,
+            "publisher": "Keddie & Son",
+            "county": [
+                "Manistee"
+            ],
+            "edition": null,
+            "frequency": "Semiweekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn96076503.json",
+            "id": "/lccn/sn96076503/",
+            "subject": [
+                "Bear Lake (Manistee County, Mich.)--Newspapers.",
+                "Manistee County (Mich.)--Newspapers.",
+                "Michigan--Manistee County.--fast--(OCoLC)fst01214770"
+            ],
+            "city": [
+                "Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The Bear Lake beacon.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Service Copy"
+            ],
+            "end_year": 1936,
+            "alt_title": [],
+            "note": [
+                "Description based on: Vol. 31, no. 3 (Sept. 10, 1918).",
+                "Merged with: Onekama Lake breeze, and: Arcadia argus, and: Kaleva chronicle, and: Wellston-Brethren banner, and: Copemish compass, to form: Manistee County pioneer press."
+            ],
+            "lccn": "sn96076503",
+            "state": [
+                "Michigan"
+            ],
+            "place": [
+                "Michigan--Manistee--Bear Lake"
+            ],
+            "country": "Michigan",
+            "type": "title",
+            "title_normal": "bear lake beacon.",
+            "oclc": "34575016"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Bear Lake, Pa.",
+            "start_year": 1886,
+            "publisher": "J.H. Gardiner",
+            "county": [
+                "Warren"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn87078229.json",
+            "id": "/lccn/sn87078229/",
+            "subject": [],
+            "city": [
+                "Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The Bear Lake record.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microform",
+                "Original",
+                "Original"
+            ],
+            "end_year": 1897,
+            "alt_title": [],
+            "note": [
+                "Description based on: Dec. 23, 1886.",
+                "Issues for <Jan. 17, 1895-> called <new ser. v. 1, no. 1->."
+            ],
+            "lccn": "sn87078229",
+            "state": [
+                "Pennsylvania"
+            ],
+            "place": [
+                "Pennsylvania--Warren--Bear Lake"
+            ],
+            "country": "Pennsylvania",
+            "type": "title",
+            "title_normal": "bear lake record.",
+            "oclc": "13983473"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Bear City, Ark.",
+            "start_year": 1880,
+            "publisher": "Frank M. Ish",
+            "county": [
+                "Garland",
+                "Montgomery"
+            ],
+            "edition": null,
+            "frequency": null,
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn89051281.json",
+            "id": "/lccn/sn89051281/",
+            "subject": [],
+            "city": [
+                "Bear",
+                "Bear City"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The Bear Mountain miner.",
+            "holding_type": [
+                "Microfilm Master",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy"
+            ],
+            "end_year": 1999,
+            "alt_title": [],
+            "note": [
+                "Description based on damaged issue of Mar. 1, 1889."
+            ],
+            "lccn": "sn89051281",
+            "state": [
+                "Arkansas",
+                "Arkansas"
+            ],
+            "place": [
+                "Arkansas--Garland--Bear",
+                "Arkansas--Montgomery--Bear City"
+            ],
+            "country": "Arkansas",
+            "type": "title",
+            "title_normal": "bear mountain miner.",
+            "oclc": "19988183"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Bear River, Minn.",
+            "start_year": 1906,
+            "publisher": "John P. Hayden",
+            "county": [
+                "Sainy Louis"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn89064974.json",
+            "id": "/lccn/sn89064974/",
+            "subject": [
+                "Bear River (Minn.)--Newspapers.",
+                "Minnesota--Bear River.--fast--(OCoLC)fst01254468"
+            ],
+            "city": [
+                "Bear River"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The Bear River journal. [volume]",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 1919,
+            "alt_title": [],
+            "note": [],
+            "lccn": "sn89064974",
+            "state": [
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Sainy Louis--Bear River"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "bear river journal.",
+            "oclc": "1519293"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Big Bear Lake, Calif.",
+            "start_year": 1962,
+            "publisher": "Bennie H. Porter",
+            "county": [
+                "San Bernardino"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn94051751.json",
+            "id": "/lccn/sn94051751/",
+            "subject": [
+                "Bear Valley (San Bernardino County, Calif.)--Newspapers.",
+                "California--Bear Valley (San Bernardino County)--fast--(OCoLC)fst01317509"
+            ],
+            "city": [
+                "Big Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Bear Valley news. [volume]",
+            "holding_type": [
+                "Original"
+            ],
+            "end_year": 1999,
+            "alt_title": [],
+            "note": [],
+            "lccn": "sn94051751",
+            "state": [
+                "California"
+            ],
+            "place": [
+                "California--San Bernardino--Big Bear Lake"
+            ],
+            "country": "California",
+            "type": "title",
+            "title_normal": "bear valley news.",
+            "oclc": "31383035"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Big Bear City, Calif.",
+            "start_year": 1992,
+            "publisher": "Robert Hoffman",
+            "county": [
+                "San Bernardino"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn97069559.json",
+            "id": "/lccn/sn97069559/",
+            "subject": [
+                "Bear Valley (San Bernardino County, Calif.)--Newspapers.",
+                "Big Bear City (Calif.)--Newspapers.",
+                "Big Bear Lake (Calif.)--Newspapers.",
+                "California--Bear Valley (San Bernardino County)--fast--(OCoLC)fst01317509",
+                "California--Big Bear City.--fast--(OCoLC)fst01236026",
+                "California--Big Bear Lake.--fast--(OCoLC)fst01236028"
+            ],
+            "city": [
+                "Big Bear City"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The Bear Valley voice.",
+            "holding_type": [
+                "Microfilm Service Copy"
+            ],
+            "end_year": 1999,
+            "alt_title": [],
+            "note": [],
+            "lccn": "sn97069559",
+            "state": [
+                "California"
+            ],
+            "place": [
+                "California--San Bernardino--Big Bear City"
+            ],
+            "country": "California",
+            "type": "title",
+            "title_normal": "bear valley voice.",
+            "oclc": "37360149"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "White Bear Lake, Minn.",
+            "start_year": 1983,
+            "publisher": "Blade Publications",
+            "county": [
+                "Ramsey"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn90059372.json",
+            "id": "/lccn/sn90059372/",
+            "subject": [
+                "Minnesota--White Bear Lake.--fast--(OCoLC)fst01219665",
+                "White Bear Lake (Minn.)--Newspapers."
+            ],
+            "city": [
+                "White Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The White Bear blade.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 1999,
+            "alt_title": [],
+            "note": [
+                "Available on microfilm from the Minnesota Historical Society."
+            ],
+            "lccn": "sn90059372",
+            "state": [
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Ramsey--White Bear Lake"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "white bear blade.",
+            "oclc": "21458569"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "White Bear Lake [Minn.]",
+            "start_year": 1983,
+            "publisher": "Press Publications",
+            "county": [
+                "Ramsey"
+            ],
+            "edition": null,
+            "frequency": "Quarterly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn90059375.json",
+            "id": "/lccn/sn90059375/",
+            "subject": [
+                "Minnesota--White Bear Lake.--fast--(OCoLC)fst01219665",
+                "White Bear Lake (Minn.)--Newspapers."
+            ],
+            "city": [
+                "White Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The White Bear Lake breeze.",
+            "holding_type": [
+                "Original"
+            ],
+            "end_year": 1999,
+            "alt_title": [],
+            "note": [
+                "Description based on: Vol. 1, no. 2 (winter 1983)."
+            ],
+            "lccn": "sn90059375",
+            "state": [
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Ramsey--White Bear Lake"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "white bear lake breeze.",
+            "oclc": "21488004"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "White Bear, Minn.",
+            "start_year": 1914,
+            "publisher": "Herbert J. Keeler",
+            "county": [
+                "Ramsey"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn83016849.json",
+            "id": "/lccn/sn83016849/",
+            "subject": [
+                "Minnesota--White Bear Lake.--fast--(OCoLC)fst01219665",
+                "White Bear Lake (Minn.)--Newspapers."
+            ],
+            "city": [
+                "White Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The White Bear press. [volume]",
+            "holding_type": [
+                "Original",
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 9999,
+            "alt_title": [],
+            "note": [
+                "Available on microfilm from the Minnesota Historical Society.",
+                "Latest issue consulted: Vol. 90, no. 26 (Wednesday, Oct. 8, 1986)."
+            ],
+            "lccn": "sn83016849",
+            "state": [
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Ramsey--White Bear Lake"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "white bear press.",
+            "oclc": "1587595"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Big Bear Lake, Calif.",
+            "start_year": 1993,
+            "publisher": "High Desert Pub. Co.",
+            "county": [
+                "San Bernardino"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn93004234.json",
+            "id": "/lccn/sn93004234/",
+            "subject": [
+                "Big Bear Lake (Calif.)--Newspapers.",
+                "California--Big Bear Lake.--fast--(OCoLC)fst01236028"
+            ],
+            "city": [
+                "Big Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Big Bear grizzly.",
+            "holding_type": [
+                "Unspecified",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy"
+            ],
+            "end_year": 9999,
+            "alt_title": [],
+            "note": [
+                "Positive films are available for duplication from:"
+            ],
+            "lccn": "sn93004234",
+            "state": [
+                "California"
+            ],
+            "place": [
+                "California--San Bernardino--Big Bear Lake"
+            ],
+            "country": "California",
+            "type": "title",
+            "title_normal": "big bear grizzly.",
+            "oclc": "28739053"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Big Bear Lake, Calif.",
+            "start_year": 1962,
+            "publisher": "R. and S. Wood",
+            "county": [
+                "San Bernardino"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn94051730.json",
+            "id": "/lccn/sn94051730/",
+            "subject": [
+                "Big Bear Lake (Calif.)--Newspapers.",
+                "California--Big Bear Lake.--fast--(OCoLC)fst01236028"
+            ],
+            "city": [
+                "Big Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Big Bear life and the grizzly.",
+            "holding_type": [
+                "Original",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy"
+            ],
+            "end_year": 1983,
+            "alt_title": [
+                "Big Bear life",
+                "Big Bear life & the grizzly"
+            ],
+            "note": [
+                "Positive films are available for duplication from:"
+            ],
+            "lccn": "sn94051730",
+            "state": [
+                "California"
+            ],
+            "place": [
+                "California--San Bernardino--Big Bear Lake"
+            ],
+            "country": "California",
+            "type": "title",
+            "title_normal": "big bear life and the grizzly.",
+            "oclc": "27300821"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Big Bear Lake, Calif.",
+            "start_year": 1959,
+            "publisher": "R. Moomjean",
+            "county": [
+                "San Bernardino"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn94051725.json",
+            "id": "/lccn/sn94051725/",
+            "subject": [
+                "Bear Valley (San Bernardino County, Calif.)--Newspapers.",
+                "Big Bear Lake (Calif.)--Newspapers.",
+                "California--Bear Valley (San Bernardino County)--fast--(OCoLC)fst01317509",
+                "California--Big Bear Lake.--fast--(OCoLC)fst01236028"
+            ],
+            "city": [
+                "Big Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Big Bear life. [volume]",
+            "holding_type": [
+                "Original",
+                "Original",
+                "Microfilm Print Master"
+            ],
+            "end_year": 1962,
+            "alt_title": [],
+            "note": [
+                "Master negatives are available for duplication from:"
+            ],
+            "lccn": "sn94051725",
+            "state": [
+                "California"
+            ],
+            "place": [
+                "California--San Bernardino--Big Bear Lake"
+            ],
+            "country": "California",
+            "type": "title",
+            "title_normal": "big bear life.",
+            "oclc": "31640766"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Big Bear Lake, Calif.",
+            "start_year": 1900,
+            "publisher": "Joseph J. Felice",
+            "county": [
+                "San Bernardino"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn94051747.json",
+            "id": "/lccn/sn94051747/",
+            "subject": [
+                "Bear Valley (San Bernardino County, Calif.)--Newspapers.",
+                "Big Bear Lake (Calif.)--Newspapers.",
+                "California--Bear Valley (San Bernardino County)--fast--(OCoLC)fst01317509",
+                "California--Big Bear Lake.--fast--(OCoLC)fst01236028"
+            ],
+            "city": [
+                "Big Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Big Bear news. [volume]",
+            "holding_type": [
+                "Original",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy"
+            ],
+            "end_year": 1999,
+            "alt_title": [],
+            "note": [
+                "Description based on: Vol. 3, no. 26 (July 19, 1973).",
+                "Positive films are available for duplication from:"
+            ],
+            "lccn": "sn94051747",
+            "state": [
+                "California"
+            ],
+            "place": [
+                "California--San Bernardino--Big Bear Lake"
+            ],
+            "country": "California",
+            "type": "title",
+            "title_normal": "big bear news.",
+            "oclc": "31383421"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Bear Lake, Manistee Co., Mich.",
+            "start_year": 1880,
+            "publisher": "A.C. Culver",
+            "county": [
+                "Manistee"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn99065354.json",
+            "id": "/lccn/sn99065354/",
+            "subject": [
+                "Bear Lake (Mich.)--Newspapers.",
+                "Manistee County (Mich.)--Newspapers.",
+                "Michigan--Manistee County.--fast--(OCoLC)fst01214770"
+            ],
+            "city": [
+                "Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Bear Lake independent.",
+            "holding_type": [],
+            "end_year": 1999,
+            "alt_title": [],
+            "note": [
+                "Description based on: Vol. 2, no. 23 (Jan. 3, 1884)."
+            ],
+            "lccn": "sn99065354",
+            "state": [
+                "Michigan"
+            ],
+            "place": [
+                "Michigan--Manistee--Bear Lake"
+            ],
+            "country": "Michigan",
+            "type": "title",
+            "title_normal": "bear lake independent.",
+            "oclc": "40852799"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "White Bear, Ramsey Co., Minn.",
+            "start_year": 1896,
+            "publisher": "A.S. Dimond",
+            "county": [
+                "Ramsey"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn90059376.json",
+            "id": "/lccn/sn90059376/",
+            "subject": [
+                "Minnesota--White Bear Lake.--fast--(OCoLC)fst01219665",
+                "White Bear Lake (Minn.)--Newspapers."
+            ],
+            "city": [
+                "White Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "White Bear life. [volume]",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 1914,
+            "alt_title": [],
+            "note": [
+                "Available on microfilm from the Minnesota Historical Society."
+            ],
+            "lccn": "sn90059376",
+            "state": [
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Ramsey--White Bear Lake"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "white bear life.",
+            "oclc": "1769814"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "White Bear Lake, Minn.",
+            "start_year": 1969,
+            "publisher": "Sell Pub. Co.",
+            "county": [
+                "Ramsey"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn90059368.json",
+            "id": "/lccn/sn90059368/",
+            "subject": [
+                "Minnesota--White Bear Lake.--fast--(OCoLC)fst01219665",
+                "White Bear Lake (Minn.)--Newspapers."
+            ],
+            "city": [
+                "White Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "White Bear peach ad-visor.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 1973,
+            "alt_title": [],
+            "note": [
+                "Available on microfilm from the Minnesota Historical Society.",
+                "Description based on: Vol. 4, no. 59 (June 13, 1973)."
+            ],
+            "lccn": "sn90059368",
+            "state": [
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Ramsey--White Bear Lake"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "white bear peach ad-visor.",
+            "oclc": "21488029"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Big Bear Lake, Calif.",
+            "start_year": 1985,
+            "publisher": "B. & S. Wood",
+            "county": [
+                "San Bernardino"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn94051767.json",
+            "id": "/lccn/sn94051767/",
+            "subject": [
+                "Big Bear Lake (Calif.)--Newspapers.",
+                "California--Big Bear Lake.--fast--(OCoLC)fst01236028"
+            ],
+            "city": [
+                "Big Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Big Bear life & the grizzly. [volume]",
+            "holding_type": [
+                "Original",
+                "Original",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy"
+            ],
+            "end_year": 1993,
+            "alt_title": [
+                "Big Bear life and the grizzly"
+            ],
+            "note": [
+                "Positive films are available for duplication from:"
+            ],
+            "lccn": "sn94051767",
+            "state": [
+                "California"
+            ],
+            "place": [
+                "California--San Bernardino--Big Bear Lake"
+            ],
+            "country": "California",
+            "type": "title",
+            "title_normal": "big bear life & the grizzly.",
+            "oclc": "31955993"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "White Bear Lake, MN",
+            "start_year": 1979,
+            "publisher": "Press Publications",
+            "county": [
+                "Ramsey"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn90059636.json",
+            "id": "/lccn/sn90059636/",
+            "subject": [
+                "Minnesota--Saint Paul.--fast--(OCoLC)fst01212130",
+                "Saint Paul (Minn.)--Newspapers."
+            ],
+            "city": [
+                null
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "White Bear Lake Area free press.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 1982,
+            "alt_title": [],
+            "note": [
+                "Available on microfilm from the Minnesota Historical Society."
+            ],
+            "lccn": "sn90059636",
+            "state": [
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Ramsey"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "white bear lake area free press.",
+            "oclc": "21569353"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Paris, Idaho Territory",
+            "start_year": 1880,
+            "publisher": "Bear Lake Print. Co.",
+            "county": [
+                "Bear Lake"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn85058168.json",
+            "id": "/lccn/sn85058168/",
+            "subject": [
+                "Idaho--Paris.--fast--(OCoLC)fst01263798",
+                "Paris (Idaho)--Newspapers."
+            ],
+            "city": [
+                "Paris"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The Bear Lake Democrat. [volume]",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Service Copy",
+                "Microfilm Master",
+                "Unspecified",
+                "Microfilm Service Copy",
+                "Original"
+            ],
+            "end_year": 1885,
+            "alt_title": [],
+            "note": [
+                "Many issues incorrectly dated."
+            ],
+            "lccn": "sn85058168",
+            "state": [
+                "Idaho"
+            ],
+            "place": [
+                "Idaho--Bear Lake--Paris"
+            ],
+            "country": "Idaho",
+            "type": "title",
+            "title_normal": "bear lake democrat.",
+            "oclc": "12292738"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "White Bear Lake, MN",
+            "start_year": 1976,
+            "publisher": "White Bear Press Pub.",
+            "county": [
+                "Ramsey"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn90059371.json",
+            "id": "/lccn/sn90059371/",
+            "subject": [
+                "Minnesota--White Bear Lake.--fast--(OCoLC)fst01219665",
+                "White Bear Lake (Minn.)--Newspapers."
+            ],
+            "city": [
+                "White Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Press advisor.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 1976,
+            "alt_title": [],
+            "note": [
+                "Available on microfilm from the Minnesota Historical Society."
+            ],
+            "lccn": "sn90059371",
+            "state": [
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Ramsey--White Bear Lake"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "press advisor.",
+            "oclc": "21488041"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "White Bear Lake, Minn.",
+            "start_year": 1982,
+            "publisher": "White Bear Press Publications",
+            "county": [
+                "Anoka",
+                "Anoka",
+                "Anoka",
+                "Anoka",
+                "Ramsey"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn87000038.json",
+            "id": "/lccn/sn87000038/",
+            "subject": [
+                "Centerville (Minn.)--Newspapers.",
+                "Circle Pines (Minn.)--Newspapers.",
+                "Lexington (Minn.)--Newspapers.",
+                "Lino Lakes (Minn.)--Newspapers.",
+                "Minnesota--Centerville.--fast--(OCoLC)fst01231492",
+                "Minnesota--Circle Pines.--fast--(OCoLC)fst01227565",
+                "Minnesota--Lexington.--fast--(OCoLC)fst01227564",
+                "Minnesota--Lino Lakes.--fast--(OCoLC)fst01231593",
+                "Minnesota--White Bear Lake.--fast--(OCoLC)fst01219665",
+                "White Bear Lake (Minn.)--Newspapers."
+            ],
+            "city": [
+                "Centerville",
+                "Circle Pines",
+                "Lexington",
+                "Lino Lakes",
+                "White Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Quad community press.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 9999,
+            "alt_title": [],
+            "note": [
+                "Available on microfilm from the Minnesota Historical Society."
+            ],
+            "lccn": "sn87000038",
+            "state": [
+                "Minnesota",
+                "Minnesota",
+                "Minnesota",
+                "Minnesota",
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Anoka--Centerville",
+                "Minnesota--Anoka--Circle Pines",
+                "Minnesota--Anoka--Lexington",
+                "Minnesota--Anoka--Lino Lakes",
+                "Minnesota--Ramsey--White Bear Lake"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "quad community press.",
+            "oclc": "15144197"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "White Bear Lake, Minn.",
+            "start_year": 1976,
+            "publisher": "White Bear Press Pub.",
+            "county": [
+                "Ramsey"
+            ],
+            "edition": null,
+            "frequency": null,
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn90059370.json",
+            "id": "/lccn/sn90059370/",
+            "subject": [
+                "Minnesota--White Bear Lake.--fast--(OCoLC)fst01219665",
+                "White Bear Lake (Minn.)--Newspapers."
+            ],
+            "city": [
+                "White Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Advisor.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 1976,
+            "alt_title": [],
+            "note": [
+                "Available on microfilm from the Minnesota Historical Society."
+            ],
+            "lccn": "sn90059370",
+            "state": [
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Ramsey--White Bear Lake"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "advisor.",
+            "oclc": "21488039"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "White Bear Lake, MN",
+            "start_year": 1976,
+            "publisher": "White Bear Press Pub.",
+            "county": [
+                "Ramsey",
+                "Ramsey",
+                "Ramsey"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn90059560.json",
+            "id": "/lccn/sn90059560/",
+            "subject": [
+                "Little Canada (Minn.)--Newspapers.",
+                "Minnesota--Little Canada.--fast--(OCoLC)fst01227774",
+                "Minnesota--Vadnais Heights.--fast--(OCoLC)fst01227954",
+                "Minnesota--White Bear Lake.--fast--(OCoLC)fst01219665",
+                "Vadnais Heights (Minn.)--Newspapers.",
+                "White Bear Lake (Minn.)--Newspapers."
+            ],
+            "city": [
+                "Little Canada",
+                "Vadnais Heights",
+                "White Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Vadnais Heights Little Canada press.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 1979,
+            "alt_title": [],
+            "note": [
+                "Available on microfilm from the Minnesota Historical Society."
+            ],
+            "lccn": "sn90059560",
+            "state": [
+                "Minnesota",
+                "Minnesota",
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Ramsey--Little Canada",
+                "Minnesota--Ramsey--Vadnais Heights",
+                "Minnesota--Ramsey--White Bear Lake"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "vadnais heights little canada press.",
+            "oclc": "21574658"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "White Bear Lake, MN",
+            "start_year": 1975,
+            "publisher": "White Bear Press Pub.",
+            "county": [
+                "Ramsey",
+                "Ramsey"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn90059377.json",
+            "id": "/lccn/sn90059377/",
+            "subject": [
+                "Minnesota--Vadnais Heights.--fast--(OCoLC)fst01227954",
+                "Minnesota--White Bear Lake.--fast--(OCoLC)fst01219665",
+                "Vadnais Heights (Minn.)--Newspapers.",
+                "White Bear Lake (Minn.)--Newspapers."
+            ],
+            "city": [
+                "Vadnais Heights",
+                "White Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Vadnais Heights press.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 1976,
+            "alt_title": [],
+            "note": [
+                "Available on microfilm from the Minnesota Historical Society."
+            ],
+            "lccn": "sn90059377",
+            "state": [
+                "Minnesota",
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Ramsey--Vadnais Heights",
+                "Minnesota--Ramsey--White Bear Lake"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "vadnais heights press.",
+            "oclc": "21574654"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Big Bear Lake, Calif.",
+            "start_year": 1946,
+            "publisher": "Kenneth L. Broyles",
+            "county": [
+                "San Bernardino"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn94051742.json",
+            "id": "/lccn/sn94051742/",
+            "subject": [
+                "Big Bear Lake (Calif.)--Newspapers.",
+                "California--Big Bear Lake.--fast--(OCoLC)fst01236028"
+            ],
+            "city": [
+                "Big Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Limelight. [volume]",
+            "holding_type": [
+                "Original"
+            ],
+            "end_year": 1949,
+            "alt_title": [
+                "Big Bear Lake limelight"
+            ],
+            "note": [
+                "\"Big Bear Lake\" appears in small type above masthead."
+            ],
+            "lccn": "sn94051742",
+            "state": [
+                "California"
+            ],
+            "place": [
+                "California--San Bernardino--Big Bear Lake"
+            ],
+            "country": "California",
+            "type": "title",
+            "title_normal": "limelight.",
+            "oclc": "31383341"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Big Bear Lake, Calif.",
+            "start_year": 1948,
+            "publisher": "Caryl Krouser",
+            "county": [
+                "San Bernardino"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn93053382.json",
+            "id": "/lccn/sn93053382/",
+            "subject": [
+                "Bear Valley (San Bernardino County, Calif.)--Newspapers.",
+                "California--Bear Valley (San Bernardino County)--fast--(OCoLC)fst01317509"
+            ],
+            "city": [
+                "Big Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Limelight news and the mountaineer.",
+            "holding_type": [
+                "Original",
+                "Original",
+                "Microfilm Master",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy",
+                "Original"
+            ],
+            "end_year": 1999,
+            "alt_title": [
+                "Big Bear Lake limelight news and the mountaineer"
+            ],
+            "note": [
+                "\"Big Bear Lake\" appears in banner over title on masthead.",
+                "Master negatives are available for duplication from:"
+            ],
+            "lccn": "sn93053382",
+            "state": [
+                "California"
+            ],
+            "place": [
+                "California--San Bernardino--Big Bear Lake"
+            ],
+            "country": "California",
+            "type": "title",
+            "title_normal": "limelight news and the mountaineer.",
+            "oclc": "28647791"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Bear Lake, Mich.",
+            "start_year": 1936,
+            "publisher": "Keddie & Sons",
+            "county": [
+                "Manistee"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn96076504.json",
+            "id": "/lccn/sn96076504/",
+            "subject": [
+                "Bear Lake (Manistee County, Mich.)--Newspapers.",
+                "Manistee County (Mich.)--Newspapers.",
+                "Michigan--Manistee County.--fast--(OCoLC)fst01214770"
+            ],
+            "city": [
+                "Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The Manistee County pioneer press. [volume]",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Service Copy"
+            ],
+            "end_year": 9999,
+            "alt_title": [],
+            "note": [
+                "Continues volume numbering of: Bear Lake beacon.",
+                "Formed by the union of: Bear Lake beacon, and: Onekama Lake breeze, and: Arcadia argus, and: Kaleva chronicle, and: Wellston-Brethren banner, and: Copemish compass."
+            ],
+            "lccn": "sn96076504",
+            "state": [
+                "Michigan"
+            ],
+            "place": [
+                "Michigan--Manistee--Bear Lake"
+            ],
+            "country": "Michigan",
+            "type": "title",
+            "title_normal": "manistee county pioneer press.",
+            "oclc": "34645634"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Big Bear Lake, Calif.",
+            "start_year": 1940,
+            "publisher": "Roy L. Dean",
+            "county": [
+                "San Bernardino"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn93053381.json",
+            "id": "/lccn/sn93053381/",
+            "subject": [
+                "Bear Valley (San Bernardino County, Calif.)--Newspapers.",
+                "California--Bear Valley (San Bernardino County)--fast--(OCoLC)fst01317509"
+            ],
+            "city": [
+                "Big Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Limelight news.",
+            "holding_type": [
+                "Original",
+                "Microfilm Master",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy"
+            ],
+            "end_year": 1948,
+            "alt_title": [
+                "Big Bear Lake limelight news"
+            ],
+            "note": [
+                "\"Big Bear Lake\" appears in banner over title on masthead.",
+                "Description based on: Vol. 2, no. 52 (June 16, 1948).",
+                "Master negatives are available for duplication from:"
+            ],
+            "lccn": "sn93053381",
+            "state": [
+                "California"
+            ],
+            "place": [
+                "California--San Bernardino--Big Bear Lake"
+            ],
+            "country": "California",
+            "type": "title",
+            "title_normal": "limelight news.",
+            "oclc": "28647783"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "White Bear Lake, Minn.",
+            "start_year": 1900,
+            "publisher": "[s.n.]",
+            "county": [
+                "Ramsey",
+                "Ramsey",
+                "Ramsey",
+                "Ramsey",
+                "Ramsey",
+                "Ramsey",
+                "Ramsey",
+                "Ramsey",
+                "Washington",
+                "Washington",
+                "Washington",
+                "Washington"
+            ],
+            "edition": "Central ed.",
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn90059637.json",
+            "id": "/lccn/sn90059637/",
+            "subject": [
+                "Birchwood (Minn.)--Newspapers.",
+                "Dellwood (Minn.)--Newspapers.",
+                "Gem Lake (Minn.)--Newspapers.",
+                "Hugo (Minn.)--Newspapers.",
+                "Little Canada (Minn.)--Newspapers.",
+                "Mahtomedi (Minn.)--Newspapers.",
+                "Minnesota--Dellwood.--fast--(OCoLC)fst01253797",
+                "Minnesota--Hugo.--fast--(OCoLC)fst01281298",
+                "Minnesota--Little Canada.--fast--(OCoLC)fst01227774",
+                "Minnesota--Mahtomedi.--fast--(OCoLC)fst01228686",
+                "Minnesota--North Oaks.--fast--(OCoLC)fst01227606",
+                "Minnesota--Roseville.--fast--(OCoLC)fst01217317",
+                "Minnesota--Shoreview.--fast--(OCoLC)fst01213456",
+                "Minnesota--Vadnais Heights.--fast--(OCoLC)fst01227954",
+                "Minnesota--White Bear Lake.--fast--(OCoLC)fst01219665",
+                "North Oaks (Minn.)--Newspapers.",
+                "Roseville (Minn.)--Newspapers.",
+                "Shoreview (Minn.)--Newspapers.",
+                "Vadnais Heights (Minn.)--Newspapers.",
+                "White Bear Lake (Minn.)--Newspapers.",
+                "Willernie (Minn.)--Newspapers."
+            ],
+            "city": [
+                "Birchwood",
+                "Gem Lake",
+                "Little Canada",
+                "North Oaks",
+                "Roseville",
+                "Shoreview",
+                "Vadnais Heights",
+                "White Bear Lake",
+                "Dellwood",
+                "Hugo",
+                "Mahtomedi",
+                "Willernie"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Free press.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 1979,
+            "alt_title": [
+                "White Bear free press"
+            ],
+            "note": [
+                "Available on microfilm from the Minnesota Historical Society.",
+                "Became Central ed. with issue for Feb. 21, 1978, serving \"White Bear Lake, White Bear Township, Mahtomedi; North Oaks, Birchwood, Dellwood, Willernie, Hugo, Gem Lake, Vadnais Heights, Little Canada, Shoreview, Roseville.",
+                "Description based on: Vol. 6, no. 13 (May 27, 1975)."
+            ],
+            "lccn": "sn90059637",
+            "state": [
+                "Minnesota",
+                "Minnesota",
+                "Minnesota",
+                "Minnesota",
+                "Minnesota",
+                "Minnesota",
+                "Minnesota",
+                "Minnesota",
+                "Minnesota",
+                "Minnesota",
+                "Minnesota",
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Ramsey--Birchwood",
+                "Minnesota--Ramsey--Gem Lake",
+                "Minnesota--Ramsey--Little Canada",
+                "Minnesota--Ramsey--North Oaks",
+                "Minnesota--Ramsey--Roseville",
+                "Minnesota--Ramsey--Shoreview",
+                "Minnesota--Ramsey--Vadnais Heights",
+                "Minnesota--Ramsey--White Bear Lake",
+                "Minnesota--Washington--Dellwood",
+                "Minnesota--Washington--Hugo",
+                "Minnesota--Washington--Mahtomedi",
+                "Minnesota--Washington--Willernie"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "free press.",
+            "oclc": "21569364"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Bear Valley, Alpine County, Calif.",
+            "start_year": 1996,
+            "publisher": "Eric Jung",
+            "county": [
+                "Alpine"
+            ],
+            "edition": null,
+            "frequency": "Monthly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn97060601.json",
+            "id": "/lccn/sn97060601/",
+            "subject": [
+                "Bear Valley (Alpine County, Calif.)--Newspapers.",
+                "California--Bear Valley (Alpine County)--fast--(OCoLC)fst01315606"
+            ],
+            "city": [
+                "Bear Valley"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The cub reporter.",
+            "holding_type": [
+                "Original",
+                "Original"
+            ],
+            "end_year": 9999,
+            "alt_title": [],
+            "note": [
+                "\"News of Bear Valley, California.\"",
+                "Numbering begins with no. 4, Sept. 1996."
+            ],
+            "lccn": "sn97060601",
+            "state": [
+                "California"
+            ],
+            "place": [
+                "California--Alpine--Bear Valley"
+            ],
+            "country": "California",
+            "type": "title",
+            "title_normal": "cub reporter.",
+            "oclc": "37630866"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Bear Lake, Mich.",
+            "start_year": 1000,
+            "publisher": "Keddie & Son",
+            "county": [
+                "Manistee"
+            ],
+            "edition": null,
+            "frequency": "Semiweekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn2002062244.json",
+            "id": "/lccn/sn2002062244/",
+            "subject": [
+                "Bear Lake (Manistee County, Mich.)--Newspapers.",
+                "Copemish (Mich.)--Newspapers.",
+                "Manistee County (Mich.)--Newspapers.",
+                "Michigan--Manistee County.--fast--(OCoLC)fst01214770"
+            ],
+            "city": [
+                "Copemish"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The Copemish compass.",
+            "holding_type": [
+                "Microfilm Service Copy"
+            ],
+            "end_year": 1999,
+            "alt_title": [],
+            "note": [
+                "Description based on: Vol. 37, no. 9 (Sept. 30, 1924).",
+                "Merged with: Bear Lake beacon, and: Arcadia argus, and: Kaleva chronicle, and: Wellston-Brethren banner, and: Onekama Lake breeze, to form: Manistee County pioneer press."
+            ],
+            "lccn": "sn2002062244",
+            "state": [
+                "Michigan"
+            ],
+            "place": [
+                "Michigan--Manistee--Copemish"
+            ],
+            "country": "Michigan",
+            "type": "title",
+            "title_normal": "copemish compass.",
+            "oclc": "50450930"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Bear Lake, Mich.",
+            "start_year": 1000,
+            "publisher": "Keddie & Son",
+            "county": [
+                "Manistee"
+            ],
+            "edition": null,
+            "frequency": "Semiweekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn2002062245.json",
+            "id": "/lccn/sn2002062245/",
+            "subject": [
+                "Bear Lake (Manistee Coutny, Mich.)--Newspapers.",
+                "Kaleva (Mich.)--Newspapers.",
+                "Manistee County (Mich.)--Newspapers.",
+                "Michigan--Manistee County.--fast--(OCoLC)fst01214770"
+            ],
+            "city": [
+                "Kaleva"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The Kaleva chronicle.",
+            "holding_type": [
+                "Microfilm Service Copy"
+            ],
+            "end_year": 1999,
+            "alt_title": [],
+            "note": [
+                "Description based on: Vol. 25, no. 40 (Jan. 16, 1923).",
+                "Merged with: Bear Lake beacon, and: Arcadia argus, and: Copemish chronicle, and: Wellston-Brethren banner, and: Onekama Lake breeze, to form: Manistee County pioneer press."
+            ],
+            "lccn": "sn2002062245",
+            "state": [
+                "Michigan"
+            ],
+            "place": [
+                "Michigan--Manistee--Kaleva"
+            ],
+            "country": "Michigan",
+            "type": "title",
+            "title_normal": "kaleva chronicle.",
+            "oclc": "50451173"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Bear Lake, Mich.",
+            "start_year": 1000,
+            "publisher": "Keddie & Son",
+            "county": [
+                "Manistee"
+            ],
+            "edition": null,
+            "frequency": "Semiweekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn00062732.json",
+            "id": "/lccn/sn00062732/",
+            "subject": [
+                "Bear Lake (Manistee County, Mich.)--Newspapers.",
+                "Manistee County (Mich.)--Newspapers.",
+                "Michigan--Manistee County.--fast--(OCoLC)fst01214770",
+                "Michigan--Onekama.--fast--(OCoLC)fst01221893",
+                "Onekama (Mich.)--Newspapers."
+            ],
+            "city": [
+                "Onekama"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Onekama lake breeze.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Service Copy"
+            ],
+            "end_year": 1999,
+            "alt_title": [],
+            "note": [
+                "Description based on: Vol. 31, no. 5 (Sept. 17, 1918).",
+                "Merged with: Bear Lake beacon, and: Arcadia argus, and: Kaleva chronicle, and: Wellston-Brethren banner, and: Copemish compass, to form: Manistee County pioneer press."
+            ],
+            "lccn": "sn00062732",
+            "state": [
+                "Michigan"
+            ],
+            "place": [
+                "Michigan--Manistee--Onekama"
+            ],
+            "country": "Michigan",
+            "type": "title",
+            "title_normal": "onekama lake breeze.",
+            "oclc": "45465953"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Bear Lake, Mich.",
+            "start_year": 1000,
+            "publisher": "Keddie & Son",
+            "county": [
+                "Manistee",
+                "Manistee"
+            ],
+            "edition": null,
+            "frequency": "Semiweekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn2002062246.json",
+            "id": "/lccn/sn2002062246/",
+            "subject": [
+                "Bear Lake (Manistee County, Mich.)--Newspapers.",
+                "Brethren (Mich.)--Newspapers.",
+                "Manistee County (Mich.)--Newspapers.",
+                "Michigan--Manistee County.--fast--(OCoLC)fst01214770",
+                "Wellston (Mich.)--Newspapers."
+            ],
+            "city": [
+                "Brethren",
+                "Wellston"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The Wellston-Brethren banner.",
+            "holding_type": [
+                "Microfilm Service Copy"
+            ],
+            "end_year": 1999,
+            "alt_title": [],
+            "note": [
+                "Description based on: Vol. 35, no. 3 (Sept. 8, 1922).",
+                "Merged with Bear Lake beacon, and: Arcadia argus, and: Kaleva chronicle, and: Copemish compass, and: Onekama Lake breeze, to form: Manistee County pioneer press."
+            ],
+            "lccn": "sn2002062246",
+            "state": [
+                "Michigan",
+                "Michigan"
+            ],
+            "place": [
+                "Michigan--Manistee--Brethren",
+                "Michigan--Manistee--Wellston"
+            ],
+            "country": "Michigan",
+            "type": "title",
+            "title_normal": "wellston-brethren banner.",
+            "oclc": "50451018"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Bear Lake, Mich.",
+            "start_year": 1000,
+            "publisher": "Keddie & Son",
+            "county": [
+                "Manistee"
+            ],
+            "edition": null,
+            "frequency": "Semiweekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn00062737.json",
+            "id": "/lccn/sn00062737/",
+            "subject": [
+                "Arcadia (Mich.)--Newspapers.",
+                "Bear Lake (Manistee County, Mich.)--Newspapers.",
+                "Manistee County (Mich.)--Newspapers.",
+                "Michigan--Manistee County.--fast--(OCoLC)fst01214770"
+            ],
+            "city": [
+                "Arcadia"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Arcadia argus.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Service Copy"
+            ],
+            "end_year": 1999,
+            "alt_title": [],
+            "note": [
+                "Description based on: Vol. 31, no. 5 (Sept. 17, 1918).",
+                "Merged with: Bear Lake beacon, and: Onekama lake breeze, and: Kaleva chronicle, and: Wellston-Brethren banner, and: Copemish compass, to form: Manistee County pioneer press."
+            ],
+            "lccn": "sn00062737",
+            "state": [
+                "Michigan"
+            ],
+            "place": [
+                "Michigan--Manistee--Arcadia"
+            ],
+            "country": "Michigan",
+            "type": "title",
+            "title_normal": "arcadia argus.",
+            "oclc": "45465919"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Tremonton, Utah",
+            "start_year": 1914,
+            "publisher": "A.D. McGuire",
+            "county": [
+                "Box Elder"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn85058158.json",
+            "id": "/lccn/sn85058158/",
+            "subject": [
+                "Box Elder County (Utah)--Newspapers.",
+                "Tremonton (Utah)--Newspapers.",
+                "Utah--Box Elder County.--fast--(OCoLC)fst01218055",
+                "Utah--Tremonton.--fast--(OCoLC)fst01227191"
+            ],
+            "city": [
+                "Tremonton"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Bear River Valley leader. [volume]",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Service Copy",
+                "Original",
+                "Unspecified",
+                "Online Resource"
+            ],
+            "end_year": 1949,
+            "alt_title": [],
+            "note": [
+                "Description based on: Vol. 1, no. 7 ((Apr. 16, 1914).",
+                "Supplement titled: State Press Association supplement to Bear River Valley leader, issued yearly by the members of the Utah State Press Association for the purpose of acquainting Utahns with Utah issues, <June 19, 1930>.",
+                "Supplements issued: Apr. 28 and May 14, 1914."
+            ],
+            "lccn": "sn85058158",
+            "state": [
+                "Utah"
+            ],
+            "place": [
+                "Utah--Box Elder--Tremonton"
+            ],
+            "country": "Utah",
+            "type": "title",
+            "title_normal": "bear river valley leader.",
+            "oclc": "12252804"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Twin Peaks, Calif.",
+            "start_year": 1930,
+            "publisher": "Glenn E. Brookins",
+            "county": [
+                "San Bernardino"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn97069575.json",
+            "id": "/lccn/sn97069575/",
+            "subject": [
+                "Bear Valley (San Bernardino County, Calif.)--Newspapers.",
+                "Big Bear Lake (Calif.)--Newspapers.",
+                "California--Bear Valley (San Bernardino County)--fast--(OCoLC)fst01317509",
+                "California--Big Bear Lake.--fast--(OCoLC)fst01236028",
+                "California--Running Springs.--fast--(OCoLC)fst01295863",
+                "Running Springs (Calif.)--Newspapers."
+            ],
+            "city": [
+                "Twin Peaks"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Big Bear life and rim o' the world beacon. [volume]",
+            "holding_type": [
+                "Microfilm Print Master"
+            ],
+            "end_year": 1932,
+            "alt_title": [
+                "Rim o' the world beacon"
+            ],
+            "note": [
+                "\"A community newspaper covering Pine Knot, Big Bear City and all of Big Bear Valley.\"",
+                "Description based on: Vol. 11, no. 1 (May 9, 1931).",
+                "Master negatives are available for duplication from:"
+            ],
+            "lccn": "sn97069575",
+            "state": [
+                "California"
+            ],
+            "place": [
+                "California--San Bernardino--Twin Peaks"
+            ],
+            "country": "California",
+            "type": "title",
+            "title_normal": "big bear life and rim o' the world beacon.",
+            "oclc": "37510946"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "White Bear Lake, Ramsey County, Minn.",
+            "start_year": 1887,
+            "publisher": "A.H.S. Perkins",
+            "county": [
+                "Ramsey",
+                "Ramsey"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn90059373.json",
+            "id": "/lccn/sn90059373/",
+            "subject": [
+                "Minnesota--Saint Paul.--fast--(OCoLC)fst01212130",
+                "Minnesota--White Bear Lake.--fast--(OCoLC)fst01219665",
+                "Saint Paul (Minn.)--Newspapers.",
+                "White Bear Lake (Minn.)--Newspapers."
+            ],
+            "city": [
+                "Saint Paul",
+                "White Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The Lake breeze. [volume]",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 1895,
+            "alt_title": [],
+            "note": [
+                "Available on microfilm from the Minnesota Historical Society.",
+                "Description based on: Vol. 1, no. 12 (July 23, 1887).",
+                "Published at White Bear Lake, Minn., and St. Paul, Minn., July 11-<Dec. 19, 1895>."
+            ],
+            "lccn": "sn90059373",
+            "state": [
+                "Minnesota",
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Ramsey--Saint Paul",
+                "Minnesota--Ramsey--White Bear Lake"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "lake breeze.",
+            "oclc": "1641448"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Edina, Minn.",
+            "start_year": 1973,
+            "publisher": "Sun Newspapers",
+            "county": [
+                "Hennepin",
+                "Ramsey"
+            ],
+            "edition": "White Bear [ed.].",
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn90060983.json",
+            "id": "/lccn/sn90060983/",
+            "subject": [
+                "Edina (Minn.)--Newspapers.",
+                "Minnesota--Edina.--fast--(OCoLC)fst01220182",
+                "Minnesota--White Bear Lake.--fast--(OCoLC)fst01219665",
+                "White Bear Lake (Minn.)--Newspapers."
+            ],
+            "city": [
+                "Edina",
+                "White Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Midweek sun.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 1974,
+            "alt_title": [
+                "White Bear midweek sun"
+            ],
+            "note": [
+                "Available on microfilm from the Minnesota Historical Society.",
+                "Merged with: Midweek sun (Edina, Minn. : Maplewood-North St. Paul ed.), and: Midweek sun (Edina, Minn. : Oakdale ed.), to form: Midweek sun (South Saint Paul, Minn. : East suburban ed.)."
+            ],
+            "lccn": "sn90060983",
+            "state": [
+                "Minnesota",
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Hennepin--Edina",
+                "Minnesota--Ramsey--White Bear Lake"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "midweek sun.",
+            "oclc": "21417740"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Roseville, Minn.",
+            "start_year": 1964,
+            "publisher": "North Suburban Newspapers",
+            "county": [
+                "Ramsey",
+                "Ramsey"
+            ],
+            "edition": "White Bear ed.",
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn90060949.json",
+            "id": "/lccn/sn90060949/",
+            "subject": [
+                "Minnesota--Roseville.--fast--(OCoLC)fst01217317",
+                "Minnesota--White Bear Lake.--fast--(OCoLC)fst01219665",
+                "Roseville (Minn.)--Newspapers.",
+                "White Bear Lake (Minn.)--Newspapers."
+            ],
+            "city": [
+                "Roseville",
+                "White Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Ramsey County suburban life. [volume]",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 1966,
+            "alt_title": [],
+            "note": [
+                "Available on microfilm from the Minnesota Historical Society."
+            ],
+            "lccn": "sn90060949",
+            "state": [
+                "Minnesota",
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Ramsey--Roseville",
+                "Minnesota--Ramsey--White Bear Lake"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "ramsey county suburban life.",
+            "oclc": "1763430"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Roseville, Minn.",
+            "start_year": 1966,
+            "publisher": "North Suburban Newspapers",
+            "county": [
+                "Ramsey",
+                "Ramsey"
+            ],
+            "edition": "[White Bear ed.].",
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn90060950.json",
+            "id": "/lccn/sn90060950/",
+            "subject": [
+                "Minnesota--Roseville.--fast--(OCoLC)fst01217317",
+                "Minnesota--White Bear Lake.--fast--(OCoLC)fst01219665",
+                "Roseville (Minn.)--Newspapers.",
+                "White Bear Lake (Minn.)--Newspapers."
+            ],
+            "city": [
+                "Roseville",
+                "White Bear Lake"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Suburban life.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 1968,
+            "alt_title": [],
+            "note": [
+                "Available on microfilm from the Minnesota Historical Society."
+            ],
+            "lccn": "sn90060950",
+            "state": [
+                "Minnesota",
+                "Minnesota"
+            ],
+            "place": [
+                "Minnesota--Ramsey--Roseville",
+                "Minnesota--Ramsey--White Bear Lake"
+            ],
+            "country": "Minnesota",
+            "type": "title",
+            "title_normal": "suburban life.",
+            "oclc": "21417791"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Reno, Nev.",
+            "start_year": 1966,
+            "publisher": "Sun Bear",
+            "county": [],
+            "edition": null,
+            "frequency": "3 no. a year",
+            "url": "https://chroniclingamerica.loc.gov/lccn/2008233443.json",
+            "id": "/lccn/2008233443/",
+            "subject": [
+                "Indian literature--Periodicals.",
+                "Indian literature.--fast--(OCoLC)fst00969135",
+                "Indian mythology--Periodicals.",
+                "Indian mythology.--fast--(OCoLC)fst00969152",
+                "Indians of North America--Periodicals.",
+                "Indians of North America--Religion--Periodicals.",
+                "Indians of North America--Religion.--fast--(OCoLC)fst00969889",
+                "Indians of North America.--fast--(OCoLC)fst00969633"
+            ],
+            "city": [],
+            "language": [
+                "English"
+            ],
+            "title": "Many smokes : Native American magazine. [microfilm reel]",
+            "holding_type": [],
+            "end_year": 1984,
+            "alt_title": [],
+            "note": [
+                "Description based on: Vol. 1, no. 2 (spring 1966).",
+                "Issues for spring 1974-1975 published in Klamath Falls, Or.; for 1976-summer 1984 in Spokane, Wash.",
+                "Microfilm.",
+                "Publisher varies: Many Smokes Pub. Co., spring 1974-1975; Bear Tribe, winter 1976; Medicine Chief of the Bear Tribe Medicine Society, 1976-summer 1984.",
+                "Suspended publication during 1971.",
+                "u"
+            ],
+            "lccn": "2008233443",
+            "state": [],
+            "place": [],
+            "country": "Nevada",
+            "type": "title",
+            "title_normal": "many smokes : native american magazine.",
+            "oclc": "222273065"
+        },
+        {
+            "essay": [
+                "\n<p>\r\n\tIn 1869, Van C. Smith and his partner, Aaron O. Wilburn, came west from Omaha and settled in Chaves County, New Mexico, at the intersection of Rio Hondo and Pecos Rivers. They built two adobe buildings, a general store, and an inn for travelers. Local Hispanic residents called this site Rio Hondo<em>,</em> for the stream. In 1872, Smith renamed his establishment Roswell, after his father, Roswell Smith. Smith also pointed out that mail addressed to Rio Hondo could be delivered anywhere along the long stream and would be delayed. A post office was established in 1873, with Smith as postmaster, and the name Roswell was formalized and has remained ever since.</p>\n<p>\r\n\tA trading center and the largest town in the Pecos Valley, Roswell was the scene of several journalistic battles between 1900 and 1912. In August 1902, C.E. Mason and H.F.M. Bear, brother-in-laws, bought the weekly <a href=\"http://chroniclingamerica.loc.gov/lccn/sn93061661\"><em>Roswell Morning Record</em></a>. The origins of this newspaper go back to 1891 when the semiweekly <a href=\"http://chroniclingamerica.loc.gov/lccn/sn93061602\"><em>Roswell Record</em></a> was launched. Sometimes called the <em>Roswell Record </em>or the <em>Morning Record, </em>it competed with two other Roswell weeklies. In March 1903, each of the three papers began to issue a daily tabloid. Encouraged by long-term advertising contracts from Roswell merchants, the <em>Record</em> endured, despite its competitors. Soon, Mason and Bear bought out their rivals and subscribed to the Associated Press service. The <em>Record </em>was the first Democratic newspaper in the territory and the voice of the Democratic Party in eastern New Mexico.</p>\n<p>\r\n\tThe <em>Roswell Daily Record</em> debuted on September 1, 1903, proclaiming, \"Roswell will miss her morning paper but will soon become used to having her daily news served in the afternoon.\" Bear, its college-trained editor, had helped improve the territorial press corps in New Mexico. He published the newspaper at the Record Publishing Company. A daily copy of the <em>Record </em>cost $15 per week and $60 per month. If paid in advance, the subscription rate was $50 per month, $3 for six months, and $5 per year. A Spanish-language companion paper, <a href=\"http://chroniclingamerica.loc.gov/lccn/sn93061602\"><em>El Registro de Roswell</em> (\"Roswell Record\")</a> appeared in 1911-12.</p>\n<p>\r\n\tTerritorial Democrats strongly endorsed statehood for New Mexico, which was finally achieved in 1912. Over one hundred territorial papers supported ratification of the new constitution, while only about sixteen were opposed. Many liberal Democratic papers adopted the attitude of the <em>Roswell Daily Record</em> which wrote \"The rejection of statehood by a very narrow margin would be a fatal error for New Mexico. It would be a setback, it would require years to overcome, and the ground lost would not be regained in time to benefit thousands now living in this country.\" It went on to state, \"The <em>Roswell Daily Record</em> wants statehood because we want the privilege of minding our own business.\" In efforts to curtail the votes of Spanish-Americans, however, papers such as the <a href=\"http://chroniclingamerica.loc.gov/lccn/sn93061452\"><em>Roswell Tribune </em></a>asked for a poll tax, and even the <em>Record</em> maintained that educational qualifications for voting should be imposed. The<em>Roswell Daily Record</em> remains in operation today.</p>\n"
+            ],
+            "place_of_publication": "Roswell, N.M.",
+            "start_year": 1903,
+            "publisher": "[H.E.M. Bear]",
+            "county": [
+                "Chaves"
+            ],
+            "edition": null,
+            "frequency": "Daily (except Sat.)",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn86063823.json",
+            "id": "/lccn/sn86063823/",
+            "subject": [
+                "Chaves County (N.M.)--Newspapers.",
+                "New Mexico--Chaves County.--fast--(OCoLC)fst01210042",
+                "New Mexico--Roswell.--fast--(OCoLC)fst01210823",
+                "Roswell (N.M.)--Newspapers."
+            ],
+            "city": [
+                "Roswell"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The Roswell daily record. [volume]",
+            "holding_type": [
+                "Unspecified",
+                "Unspecified",
+                "Unspecified",
+                "Unspecified",
+                "Original",
+                "Original",
+                "Original",
+                "Microfilm Service Copy",
+                "Microfilm Service Copy",
+                "Original",
+                "Microfilm Service Copy",
+                "Original",
+                "Microfilm Service Copy",
+                "Original",
+                "Unspecified",
+                "Microfilm Service Copy",
+                "Unspecified",
+                "Unspecified",
+                "Unspecified",
+                "Original",
+                "Online Resource"
+            ],
+            "end_year": 9999,
+            "alt_title": [],
+            "note": [
+                "Also on microfilm: El Paso, Tex. : Southwest Micropublishing, Inc.",
+                "Archived issues are available in digital format from the Library of Congress Chronicling America online collection.",
+                "Semiweekly ed.: Roswell record, June 13, 1911-<Oct. 21, 1913>.",
+                "Weekly ed.: Roswell record, 1903-June 9, 1911."
+            ],
+            "lccn": "sn86063823",
+            "state": [
+                "New Mexico"
+            ],
+            "place": [
+                "New Mexico--Chaves--Roswell"
+            ],
+            "country": "New Mexico",
+            "type": "title",
+            "title_normal": "roswell daily record.",
+            "oclc": "13454297"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Lyons, N.Y.",
+            "start_year": 1882,
+            "publisher": "M.J. & I.J. VanMarter",
+            "county": [
+                "Wayne"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn86063108.json",
+            "id": "/lccn/sn86063108/",
+            "subject": [
+                "Lyons (N.Y.)--Newspapers."
+            ],
+            "city": [
+                "Lyons"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "The Grin and bear it. [volume]",
+            "holding_type": [
+                "Original",
+                "Original",
+                "Original"
+            ],
+            "end_year": 9999,
+            "alt_title": [],
+            "note": [
+                "Description based on: Vol. 3, no. 18 (Sept. 27, 1884)."
+            ],
+            "lccn": "sn86063108",
+            "state": [
+                "New York"
+            ],
+            "place": [
+                "New York--Wayne--Lyons"
+            ],
+            "country": "New York",
+            "type": "title",
+            "title_normal": "grin and bear it.",
+            "oclc": "13175120"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Santa Rosa, Calif.",
+            "start_year": 1924,
+            "publisher": "Santa Rosa Junior College",
+            "county": [
+                "Sonoma"
+            ],
+            "edition": null,
+            "frequency": "Biweekly (during school year)",
+            "url": "https://chroniclingamerica.loc.gov/lccn/2017219119.json",
+            "id": "/lccn/2017219119/",
+            "subject": [
+                "California--Santa Rosa.--fast--(OCoLC)fst01214309",
+                "College student newspapers and periodicals--Newspapers.",
+                "College student newspapers and periodicals.--fast--(OCoLC)fst00867966",
+                "Santa Rosa (Calif.)--Newspapers."
+            ],
+            "city": [
+                "Santa Rosa"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Bear facts. [volume]",
+            "holding_type": [],
+            "end_year": 1929,
+            "alt_title": [],
+            "note": [
+                "Latest issue consulted: Vol. 1, no. 6 (Mar. 20, 1925)."
+            ],
+            "lccn": "2017219119",
+            "state": [
+                "California"
+            ],
+            "place": [
+                "California--Sonoma--Santa Rosa"
+            ],
+            "country": "California",
+            "type": "title",
+            "title_normal": "bear facts.",
+            "oclc": "992805893"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Paris, Idaho",
+            "start_year": 1939,
+            "publisher": "R.L. Sommers",
+            "county": [
+                "Bear Lake"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn85058181.json",
+            "id": "/lccn/sn85058181/",
+            "subject": [
+                "Bear Lake County (Idaho)--Newspapers.",
+                "Idaho--Bear Lake County.--fast--(OCoLC)fst01217583",
+                "Idaho--Paris.--fast--(OCoLC)fst01263798",
+                "Paris (Idaho)--Newspapers."
+            ],
+            "city": [
+                "Paris"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Bear Lake booster. [volume]",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Service Copy"
+            ],
+            "end_year": 1941,
+            "alt_title": [],
+            "note": [
+                "Also issued on microfilm from Universal Microfilming Corp.",
+                "Description based on: Vol. 30, no. 31 (Sept. 7, 1939).",
+                "Latest issue consulted: Vol. 61, no. 17 (May 29, 1941)."
+            ],
+            "lccn": "sn85058181",
+            "state": [
+                "Idaho"
+            ],
+            "place": [
+                "Idaho--Bear Lake--Paris"
+            ],
+            "country": "Idaho",
+            "type": "title",
+            "title_normal": "bear lake booster.",
+            "oclc": "12329714"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Montpelier, Idaho",
+            "start_year": 1985,
+            "publisher": "R. Cheramil",
+            "county": [
+                "Bear Lake"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn89055283.json",
+            "id": "/lccn/sn89055283/",
+            "subject": [
+                "Idaho--Montpelier.--fast--(OCoLC)fst01226300",
+                "Montpelier (Idaho)--Newspapers."
+            ],
+            "city": [
+                "Montpelier"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Bear Lake gazette.",
+            "holding_type": [
+                "Microfilm Service Copy",
+                "Microfilm Master"
+            ],
+            "end_year": 1986,
+            "alt_title": [],
+            "note": [],
+            "lccn": "sn89055283",
+            "state": [
+                "Idaho"
+            ],
+            "place": [
+                "Idaho--Bear Lake--Montpelier"
+            ],
+            "country": "Idaho",
+            "type": "title",
+            "title_normal": "bear lake gazette.",
+            "oclc": "20730545"
+        },
+        {
+            "essay": [],
+            "place_of_publication": "Garden City, Utah",
+            "start_year": 1983,
+            "publisher": "H.L. Vanhorn",
+            "county": [
+                "Rich"
+            ],
+            "edition": null,
+            "frequency": "Weekly",
+            "url": "https://chroniclingamerica.loc.gov/lccn/sn85058404.json",
+            "id": "/lccn/sn85058404/",
+            "subject": [],
+            "city": [
+                "Garden City"
+            ],
+            "language": [
+                "English"
+            ],
+            "title": "Bear Lake news. [volume]",
+            "holding_type": [
+                "Microfilm Service Copy"
+            ],
+            "end_year": 1983,
+            "alt_title": [],
+            "note": [],
+            "lccn": "sn85058404",
+            "state": [
+                "Utah"
+            ],
+            "place": [
+                "Utah--Rich--Garden City"
+            ],
+            "country": "Utah",
+            "type": "title",
+            "title_normal": "bear lake news.",
+            "oclc": "12983015"
+        }
+    ]
+}
