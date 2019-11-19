@@ -14,10 +14,6 @@ $(document).ready(function(){
     event.preventDefault();
     $('.feed, .poke, .sleep').fadeIn();
     $('#nameForm').hide();
-    // let tamed = false;
-    // let affinity = 0;
-    let second = 1000;
-    let halfSecond = 500;
     console.log(fuzzy.sleep);
     let userInputted = $("#bearName").val();
     fuzzy.name = userInputted;
@@ -36,12 +32,11 @@ $(document).ready(function(){
         $('#bearSleepDisplay').removeClass('warning');
       }
     }
-    fuzzy.setHunger(second);
-    fuzzy.sleepTimer(2500);
+    fuzzy.setHunger();
+    fuzzy.sleepTimer();
 
     setInterval(function(){
       displayStats();
-      // fuzzy.setHunger();
       if(fuzzy.foodLevel <= 0){
         modalDisplay();
       }
@@ -57,32 +52,27 @@ $(document).ready(function(){
     $(".feed").click(function(event) {
       event.preventDefault();
       fuzzy.feed();
-      fuzzy.clearIntervals();
-      // affinity+=5;
-      // console.log(affinity);
-      // return affinity;
+      fuzzy.tameBear();
     });
 
     $('#playAgain').click(function(event){
       event.preventDefault();
       fuzzy.feed();
-      fuzzy.setHunger(second);
-      fuzzy.clearIntervals();
+      fuzzy.setHunger();
       console.log(fuzzy.foodLevel);
     })
 
-    // tameBear(affinity, tamed);
-
     $(".poke").click(function(event) {
       event.preventDefault();
-      fuzzy.poke(halfSecond);
-      fuzzy.clearIntervals();
+      fuzzy.poke();
 
     });
 
     $(".sleep").click(function(event) {
       event.preventDefault();
       fuzzy.sleep+=5;
+      $(".sleep").fadeOut();
+      setTimeout(function(){ $(".sleep").fadeIn(); }, 9000);
     });
 
     setInterval(function(){

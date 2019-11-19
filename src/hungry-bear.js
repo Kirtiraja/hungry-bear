@@ -4,30 +4,26 @@ export class HungryBear {
     this.foodLevel = 10; //testing with 3
     this.anger = false;
     this.sleep = 20;
-    this.hungerCount = "";
+    this.hungerCount;
+    this.affinity = 0;
+    this.tamed = false;
   }
 
-  setHunger(time) {
+  setHunger() {
     if(this.anger === false){
-      console.log("setHungerAnger:", this.anger);
-      // console.log(second, halfSecond);
       this.hungerCount = setInterval(() => {
         this.foodLevel--;
         if (this.foodLevel === 0) {
           clearInterval(this.hungerCount);
         }
-      }, time);
+      }, 1500);
     }
   }
 
-
-
   didYouGetEaten() {
     if(this.foodLevel > 0){
-      console.log("Food > 0: ", this.foodLevel);
       return false;
     } else {
-      console.log("Food < 0:", this.foodLevel);
       return true;
     }
   }
@@ -37,46 +33,42 @@ export class HungryBear {
     this.anger = true; //tester
     if(this.anger === true){
       clearInterval(this.hungerCount);
-      console.log("pokeAnger:", this.anger);
       this.hungerCount = setInterval(() => {
         this.foodLevel--;
-        console.log("poke()");
         if (this.foodLevel <= 0) {
           clearInterval(this.hungerCount);
         }
-      }, 1000);
+      }, 1500);
+    }
   }
-}
 
-
-  sleepTimer(time){
+  sleepTimer(){
     setInterval(() => {
       this.sleep--;
-    }, time);
+    }, 3000);
   }
 
-  poke(time){
+  poke(){
     this.anger = true; //tester
     if(this.anger === true){
       clearInterval(this.hungerCount);
-      console.log("pokeAnger:", this.anger);
       this.hungerCount = setInterval(() => {
         this.foodLevel--;
-        console.log("poke()");
         if (this.foodLevel <= 0) {
           clearInterval(this.hungerCount);
         }
-      }, time);
-      // return this.foodLevel;
+      }, 500);
     }
   }
 
-  tameBear(affinity, tamed){
-    console.log(affinity, tamed);
-    if(affinity > 25){
-      tamed = true;
+  tameBear(){
+    this.affinity+=5;
+    console.log(this.affinity, this.tamed);
+    if(this.affinity >= 25){
+      this.tamed = true;
       console.log('bear tamed!');
+      return this.tamed
     }
+    return this.affinity;
   }
-
 }
