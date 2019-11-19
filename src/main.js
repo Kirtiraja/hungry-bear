@@ -14,16 +14,22 @@ $(document).ready(function(){
     event.preventDefault();
     $('.feed, .poke, .sleep').fadeIn();
     $('#nameForm').hide();
+    // let tamed = false;
+    // let affinity = 0;
+    let second = 1000;
+    let halfSecond = 500;
     let userInputted = $("#bearName").val();
     fuzzy.name = userInputted;
-    console.log(fuzzy);
-    // console.log("bear name: ", this.name );
     $("#displayBearName").text(userInputted);
     function displayTime () {
       $("#bearHungerDisplay").text(fuzzy.foodLevel);
+      if(fuzzy.foodLevel < 5){
+        $('#bearHungerDisplay').addClass('warning');
+      } else if (fuzzy.foodLevel > 5){
+        $('#bearHungerDisplay').removeClass('warning');
+      }
     }
-    fuzzy.setHunger();
-
+    fuzzy.setHunger(second);
 
     setInterval(function(){
       displayTime();
@@ -35,18 +41,31 @@ $(document).ready(function(){
     let modalDisplay = () => {
       $('#myModal').modal('show');
         setTimeout(function() {
-          $('#myModal').modal('show');
+          $('#myModal').modal('hide');
         }, 1000);
     };
 
     $(".feed").click(function(event) {
       event.preventDefault();
       fuzzy.feed();
+      // affinity+=5;
+      // console.log(affinity);
+      // return affinity;
     });
+
+    $('#playAgain').click(function(event){
+      event.preventDefault();
+      fuzzy.feed();
+      fuzzy.setHunger(second);
+
+      console.log(fuzzy.foodLevel);
+    })
+
+    // tameBear(affinity, tamed);
 
     $(".poke").click(function(event) {
       event.preventDefault();
-      fuzzy.poke();
+      fuzzy.poke(halfSecond);
     });
 
     $(".sleep").click(function(event) {

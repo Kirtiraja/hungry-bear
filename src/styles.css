@@ -6,3 +6,7 @@ body {
 .feed, .poke, .sleep {
   display: none;
 }
+
+.warning {
+  color: #ff7919;
+}

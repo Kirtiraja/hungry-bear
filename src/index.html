@@ -1,39 +1,39 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Hungry Bear Tamogotchi</title>
-  </head>
-  <body>
-    <h3><span id="displayBearName"></span> Feeding Time: <span id="bearHungerDisplay"></span> </h3>
-    <button type="button" class="btn btn-lg btn-info feed" name="button">Feed</button>
-    <button type="button" class="btn btn-lg btn-danger poke" name="button">Poke</button>
-    <button type="button" class="btn btn-lg btn-secondary sleep" name="button">Sleep</button>
-    <div class="form-group">
-      <form id="nameForm">
-        <label>Name your bear: </label>
-        <input type="text" id="bearName" value="" placeholder="Fuzzy">
-        <button type="submit" class="btn btn-outline-secondary" name="button" id="submitForm">Submit</button>
-      </form>
+<head>
+  <meta charset="utf-8">
+  <title>Hungry Bear Tamogotchi</title>
+</head>
+<body>
+  <h3><span id="displayBearName"></span> Feeding Time: <span id="bearHungerDisplay"></span> </h3>
+  <button type="button" class="btn btn-lg btn-info feed" name="button">Feed</button>
+  <button type="button" class="btn btn-lg btn-danger poke" name="button">Poke</button>
+  <button type="button" class="btn btn-lg btn-secondary sleep" name="button">Sleep</button>
+  <div class="form-group">
+    <form id="nameForm">
+      <label>Name your bear: </label>
+      <input type="text" id="bearName" value="" placeholder="Fuzzy">
+      <button type="submit" class="btn btn-outline-secondary" name="button" id="submitForm">Submit</button>
+    </form>
   </div>
   <!-- Modal -->
   <div class="modal" id="myModal" tabindex="-1" role="dialog">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <img id="bearBite" alt="">
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Play Again?</button>
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <img id="bearBite" class="img-responsive" alt="">
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal" id="playAgain">Play Again?</button>
+        </div>
       </div>
     </div>
   </div>
-</div>
-<!-- Modal End -->
-  </body>
+  <!-- Modal End -->
+</body>
 </html>

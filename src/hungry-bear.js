@@ -1,16 +1,22 @@
 export class HungryBear {
   constructor(name) {
     this.name = name;
-    this.foodLevel = 10; //testing with 3
+    this.foodLevel = 3; //testing with 3
   }
 
-  setHunger() {
-    let hungerCount = setInterval(() => {
-      this.foodLevel--;
-      if (this.foodLevel === 0) {
-        clearInterval(hungerCount);
-      }
-    }, 1000);
+  setHunger(second, halfSecond) {
+    let buttonClick = true; //tester
+    if(buttonClick === true){
+      console.log(second, halfSecond);
+      // this.foodLevel = 10;
+      let hungerCount = setInterval(() => {
+        this.foodLevel--;
+        console.log("setHunger()");
+        if (this.foodLevel === 0) {
+          clearInterval(hungerCount);
+        }
+      }, second, halfSecond);
+    }
   }
 
   didYouGetEaten() {
@@ -27,13 +33,25 @@ export class HungryBear {
     this.foodLevel = 10;
   }
 
-  poke(){
-    let angerLevel = setInterval(() => {
-      this.foodLevel--;
-      if (this.foodLevel === 0) {
-        clearInterval(angerLevel);
-      }
-    }, 500);
-    return this.foodLevel;
+  poke(time){
+    let buttonClick = false; //tester
+    if(buttonClick === false){
+      let angerLevel = setInterval(() => {
+        this.foodLevel--;
+        console.log("poke()");
+        if (this.foodLevel === 0) {
+          clearInterval(angerLevel);
+        }
+      }, time);
+      return this.foodLevel;
+    }
+  }
+
+  tameBear(affinity, tamed){
+    console.log(affinity, tamed);
+    if(affinity > 25){
+      tamed = true;
+      console.log('bear tamed!');
+    }
   }
 }
