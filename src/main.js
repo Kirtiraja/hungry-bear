@@ -18,21 +18,30 @@ $(document).ready(function(){
     // let affinity = 0;
     let second = 1000;
     let halfSecond = 500;
+    console.log(fuzzy.sleep);
     let userInputted = $("#bearName").val();
     fuzzy.name = userInputted;
-    $("#displayBearName").text(userInputted);
-    function displayTime () {
+    $(".displayBearName").text(userInputted);
+    function displayStats () {
       $("#bearHungerDisplay").text(fuzzy.foodLevel);
       if(fuzzy.foodLevel < 5){
         $('#bearHungerDisplay').addClass('warning');
       } else if (fuzzy.foodLevel > 5){
         $('#bearHungerDisplay').removeClass('warning');
       }
+      $("#bearSleepDisplay").text(fuzzy.sleep);
+      if(fuzzy.sleep < 5){
+        $('#bearSleepDisplay').addClass('warning');
+      } else if (fuzzy.sleep > 5){
+        $('#bearSleepDisplay').removeClass('warning');
+      }
     }
     fuzzy.setHunger(second);
+    fuzzy.sleepTimer(2500);
 
     setInterval(function(){
-      displayTime();
+      displayStats();
+      // fuzzy.setHunger();
       if(fuzzy.foodLevel <= 0){
         modalDisplay();
       }
@@ -48,6 +57,7 @@ $(document).ready(function(){
     $(".feed").click(function(event) {
       event.preventDefault();
       fuzzy.feed();
+      fuzzy.clearIntervals();
       // affinity+=5;
       // console.log(affinity);
       // return affinity;
@@ -57,7 +67,7 @@ $(document).ready(function(){
       event.preventDefault();
       fuzzy.feed();
       fuzzy.setHunger(second);
-
+      fuzzy.clearIntervals();
       console.log(fuzzy.foodLevel);
     })
 
@@ -66,10 +76,13 @@ $(document).ready(function(){
     $(".poke").click(function(event) {
       event.preventDefault();
       fuzzy.poke(halfSecond);
+      fuzzy.clearIntervals();
+
     });
 
     $(".sleep").click(function(event) {
       event.preventDefault();
+      fuzzy.sleep+=5;
     });
 
     setInterval(function(){

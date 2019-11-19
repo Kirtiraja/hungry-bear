@@ -1,23 +1,26 @@
 export class HungryBear {
   constructor(name) {
     this.name = name;
-    this.foodLevel = 3; //testing with 3
+    this.foodLevel = 10; //testing with 3
+    this.anger = false;
+    this.sleep = 20;
+    this.hungerCount = "";
   }
 
-  setHunger(second, halfSecond) {
-    let buttonClick = true; //tester
-    if(buttonClick === true){
-      console.log(second, halfSecond);
-      // this.foodLevel = 10;
-      let hungerCount = setInterval(() => {
+  setHunger(time) {
+    if(this.anger === false){
+      console.log("setHungerAnger:", this.anger);
+      // console.log(second, halfSecond);
+      this.hungerCount = setInterval(() => {
         this.foodLevel--;
-        console.log("setHunger()");
         if (this.foodLevel === 0) {
-          clearInterval(hungerCount);
+          clearInterval(this.hungerCount);
         }
-      }, second, halfSecond);
+      }, time);
     }
   }
+
+
 
   didYouGetEaten() {
     if(this.foodLevel > 0){
@@ -31,19 +34,40 @@ export class HungryBear {
 
   feed(){
     this.foodLevel = 10;
+    this.anger = true; //tester
+    if(this.anger === true){
+      clearInterval(this.hungerCount);
+      console.log("pokeAnger:", this.anger);
+      this.hungerCount = setInterval(() => {
+        this.foodLevel--;
+        console.log("poke()");
+        if (this.foodLevel <= 0) {
+          clearInterval(this.hungerCount);
+        }
+      }, 1000);
+  }
+}
+
+
+  sleepTimer(time){
+    setInterval(() => {
+      this.sleep--;
+    }, time);
   }
 
   poke(time){
-    let buttonClick = false; //tester
-    if(buttonClick === false){
-      let angerLevel = setInterval(() => {
+    this.anger = true; //tester
+    if(this.anger === true){
+      clearInterval(this.hungerCount);
+      console.log("pokeAnger:", this.anger);
+      this.hungerCount = setInterval(() => {
         this.foodLevel--;
         console.log("poke()");
-        if (this.foodLevel === 0) {
-          clearInterval(angerLevel);
+        if (this.foodLevel <= 0) {
+          clearInterval(this.hungerCount);
         }
       }, time);
-      return this.foodLevel;
+      // return this.foodLevel;
     }
   }
 
@@ -54,4 +78,5 @@ export class HungryBear {
       console.log('bear tamed!');
     }
   }
+
 }
