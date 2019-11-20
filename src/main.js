@@ -71,9 +71,9 @@ $(document).ready(function(){
 
     let modalDisplay = () => {
       $('#myModal').modal('show');
-        setTimeout(function() {
-          $('#myModal').modal('hide');
-        }, 1000);
+        // setTimeout(function() {
+        //   $('#myModal').modal('hide');
+        // }, 1000);
     };
 
     $(".feed").click(function(event) {
