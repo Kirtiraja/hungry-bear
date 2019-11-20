@@ -3,8 +3,9 @@ export class HungryBear {
     this.name = name;
     this.foodLevel = 10; //testing with 3
     this.anger = false;
-    this.sleep = 20;
+    this.sleep = 2;
     this.hungerCount;
+    this.sleepCount;
     this.affinity = 0;
     this.tamed = false;
   }
@@ -43,8 +44,11 @@ export class HungryBear {
   }
 
   sleepTimer(){
-    setInterval(() => {
+    this.sleepCount = setInterval(() => {
       this.sleep--;
+      if (this.sleep <= 0) {
+        clearInterval(this.sleepCount);
+      }
     }, 3000);
   }
 

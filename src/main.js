@@ -36,7 +36,7 @@ $(document).ready(function(){
 
     // API Test Beginning
     let request = new XMLHttpRequest();
-    const url = `https://api.giphy.com/v1/gifs/search?api_key=bIqLJA6iUApAJtFIA72m1RPCMSZQ9UGx&q=bear&limit=25&offset=0&rating=G&lang=en`;
+    const url = `https://api.giphy.com/v1/gifs/random?api_key=bIqLJA6iUApAJtFIA72m1RPCMSZQ9UGx&tag=bear&rating=R`;
 
     request.onreadystatechange = function() {
       if (this.readyState === 4 && this.status === 200) {
@@ -44,14 +44,19 @@ $(document).ready(function(){
         getElements(response);
       }
     }
-
-    request.open("GET", url, true);
-    request.send();
+    setInterval(function(){
+      request.open("GET", url, true);
+      request.send();
+    }, 5000);
+    // request.open("GET", url, true);
+    // request.send();
 
    const getElements = function(response) {
-      $('#bearGIF').append(`<img src='${response.data[0].images.downsized_large.url}'></img>`);
+      $('#bearGIF').html(`<img src='${response.data.images.downsized_large.url}'></img>`);
       // $('.showTemp').text(`The temperature in Kelvins is ${response.main.temp} degrees.`);
     }
+    // request.open("GET", url, true);
+    // request.send();
     // API Test End
 
     fuzzy.setHunger();
